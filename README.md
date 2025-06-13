@@ -31,15 +31,15 @@ python "eye tracking.py"
 Make sure your webcam is connected and working.
 
 **How It Works**:
-1.OpenCV accesses the webcam feed.
-2.Haar Cascade classifiers detect the face and eye regions.
-3.Basic bounding boxes are drawn to show real-time tracking.
+- OpenCV accesses the webcam feed.
+- Haar Cascade classifiers detect the face and eye regions.
+- Basic bounding boxes are drawn to show real-time tracking.
 
 **Future Improvements**:
--Better eye detection using Dlib or Mediapipe
--Pupil center tracking and gaze direction
--Blink detection
--GUI integration
+- Better eye detection using Dlib or Mediapipe
+- Pupil center tracking and gaze direction
+- Blink detection
+- GUI integration
 
 **About Me**:
 I'm a Computer Science student exploring the world of computer vision.This was my first step into building interactive AI-based tools.
