@@ -19,13 +19,15 @@ This is a simple eye-tracking project built using Python and OpenCV. The applica
 git clone
 https://github.com/rosannechugh/eye-tracking.git
 cd eye-tracking
-
+```
 2. Install dependencies (preferably in a virtual environment):
+```
 pip install opencv-python
-
+```
 3. Run the script:
+```
 python "eye tracking.py"
-
+```
 Make sure your webcam is connected and working.
 
 **How It Works**:
